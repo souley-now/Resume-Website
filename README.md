@@ -1,2 +1,7 @@
-# Resume-Website
-This project is a simulation on how to convert a given resume into a webpage to display on the browser.
+The basic skeleton of a website is an HTML page. This HTML page is a text file with a certain
+format. Taking advantage of this fact, one can take an HTML template and create multiple
+pages with different values stored. This is exactly what we are going to do in this homework.
+Many websites use these kinds of scripts to mass generate HTML pages from databases. We
+will use a sample text file as our ‘database’.
+Our goal will be to take a resume in a simplistic text file and convert it into an HTML file that
+can be displayed by a web browser.
