@@ -1,0 +1,8 @@
+John Doe
+Courses: CIT591, CIT592, CIT593
+Projects
+Ice-Cream-Stand: Developed a simulated day to day dessert shopping. Calculated revenue system.
+Supermarket: Simulated customer shopping habits.
+Water-Tank: Designed a base level gaming. The game consist of two players.
+----------
+john.doe@example.com
